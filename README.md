@@ -1,4 +1,4 @@
-# Security.dev
+# Security.dev 🔐
 Cloud Security Fundamentals
 
 
@@ -49,7 +49,7 @@ AWS | [AWS Threat Simulation & Detection](https://github.com/sbasu7241/AWS-Threa
 Azure | [Azure Cloud Detection Lab(Blog)](https://cyberwoxacademy.com/azure-cloud-detection-lab-project/), [Azure Cloud Detection Lab(Videos)](https://youtube.com/playlist?list=PLBNtagSCmDWw27ccfeWeiaMcpNIxpGHy4)| A hands-on project showing how to detect threats in an azure environment using Azure Sentinal. |
 Azure | [SIEM Tutorial for Beginners Azure Sentinel Tutorial MAP with LIVE CYBER ATTACKS!](https://youtu.be/RoZeVbbZ0o0)| A hands-on project showing how to set up a honey pot and analyzing malicious traffic using Azure Sentinel. |
 
-## Things you should be familiar with at the end of this phase
+## Things you should be familiar with : 
 
 - An understanding of core IAM concepts (Users, Roles, Policies, Groups, Service Accounts/Principals, etc.)
 - An understanding of how authentication works in the cloud.
@@ -74,3 +74,25 @@ These are lesser know certifications but they are focused on giving you the trai
 
 - [Certified Az Red Team Professional](https://bootcamps.pentesteracademy.com/course/ad-azure-may-21)
 - [Certified Azure Web Application Security Professional](https://bootcamps.pentesteracademy.com/course/azure-appsec-beginner-jul-22)
+
+## Join the Security Community
+
+Stay informed and engage with the security community by participating in discussions on popular forums, subreddits, and social media channels. Here are some places where you can connect with like-minded individuals and stay updated on the latest security trends:
+
+- **[Security Stack Exchange](https://security.stackexchange.com/):** A community-driven Q&A platform for security professionals. Ask questions, share knowledge, and learn from experts.
+
+- **[Reddit - r/netsec](https://www.reddit.com/r/netsec/):** The "network security" subreddit on Reddit. Join discussions on various security topics, news, and research.
+
+
+- **[LinkedIn Groups](https://solutionsreview.com/cloud-platforms/the-8-best-cloud-security-linkedin-groups-you-should-join/)  :** Explore security-related LinkedIn groups and join discussions with professionals in your field.
+
+Participating in these communities is an excellent way to broaden your knowledge, stay updated on security best practices, and connect with peers in the industry. We encourage you to explore these platforms and engage in meaningful discussions.
+
+
+
+
+
+
+
+
+
